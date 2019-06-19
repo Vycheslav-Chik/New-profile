@@ -1,2 +1,2 @@
-# new-profile
+# New-profile
 Hello
